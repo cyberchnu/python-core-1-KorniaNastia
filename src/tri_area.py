@@ -1,3 +1,3 @@
 def tri_area(base, height):
-  # Type your code
-  return 
+  square_area = base * height / 2
+  return square_area
