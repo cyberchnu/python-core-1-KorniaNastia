@@ -8,4 +8,4 @@ def mean(number):
        count += 1
        mean = sum / count
     return mean
-print(mean(795))
+print(mean(794))
