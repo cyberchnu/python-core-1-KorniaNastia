@@ -4,9 +4,9 @@ def fizz_buzz(number):
   elif number % 3 == 0:
     result = "Fizz"
   elif number % 5 == 0:
-    result = "Buzz"
+    # result = "Buzz"
   else:
-    result = str(number)
+    # result = str(number)
   print(result)
   return (result)
 
