@@ -1,4 +1,2 @@
 def hello():
-
-
-    nf
+    return "Hello!"
